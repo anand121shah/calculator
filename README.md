@@ -13,8 +13,7 @@ This is a simple GUI calculator application developed using C++.
 ## Requirements
 
 - C++ compiler (e.g., GCC, Clang, Visual Studio)
-- Qt framework (version X.X.X or higher)
-- [Insert any other dependencies or libraries used]
+- Qt framework
 
 ## Getting Started
 
@@ -26,20 +25,18 @@ git clone https://github.com/[your-username]/calculator.git
 
 2. Install the necessary dependencies:
 
-```bash
-[Provide instructions on how to install Qt and any other dependencies]
-```
+
+Download QT framework
+
 
 3. Build the project:
 
-```bash
-[Provide instructions on how to build the project using the specific compiler or IDE]
-```
+Refer Manuals macManual.md and windowsManual.md for detailed instructions
 
 4. Run the application:
 
 ```bash
-[Provide instructions on how to run the application]
+Run the GUI in QT IDE
 ```
 
 ## Usage
