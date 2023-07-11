@@ -23,21 +23,13 @@ This is a simple GUI calculator application developed using C++.
 git clone https://github.com/[your-username]/calculator.git
 ```
 
-2. Install the necessary dependencies:
+2. Install the necessary dependencies: Download QT framework
 
 
-Download QT framework
+3. Build the project: Refer Manuals macManual.md and windowsManual.md for detailed instructions
 
+4. Run the application: Run the GUI in QT IDE
 
-3. Build the project:
-
-Refer Manuals macManual.md and windowsManual.md for detailed instructions
-
-4. Run the application:
-
-```bash
-Run the GUI in QT IDE
-```
 
 ## Usage
 
