@@ -20,7 +20,7 @@ This is a simple GUI calculator application developed using C++.
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/[your-username]/calculator.git
+git clone https://github.com/as-bestinclass/calculator.git
 ```
 
 2. Install the necessary dependencies: Download QT framework
