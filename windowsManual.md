@@ -1,5 +1,3 @@
-Yes, the code provided should run on macOS as long as you have the Qt framework properly installed and set up on your system.
-
 Here are the general steps to compile and run a Qt application on macOS:
 
 1. Install Qt: Download and install the Qt framework from the official Qt website (https://www.qt.io/). Choose the version suitable for macOS.
